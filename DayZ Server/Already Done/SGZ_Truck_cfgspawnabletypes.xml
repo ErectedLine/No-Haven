@@ -1,0 +1,872 @@
+	<type name="PickupTruckYellow">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+
+	<type name="PickupTruckDigiCamo">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DigiCamoPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DigiCamoPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DigiCamoPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckRedCamo">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="RedCamoPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="RedCamoPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="RedCamoPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckDarkRedCamo">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DarkRedCamoPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DarkRedCamoPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DarkRedCamoPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckWhiteCamo">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="WhiteCamoPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="WhiteCamoPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="WhiteCamoPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckForestCamo">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="ForestCamoPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="ForestCamoPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="ForestCamoPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckDigiScales">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DigiScalesPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DigiScalesPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DigiScalesPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckDarkScales">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DarkScalesPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DarkScalesPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="DarkScalesPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckBlueDots">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlueDotsPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlueDotsPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlueDotsPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckBlackCamo">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlackCamoPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlackCamoPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlackCamoPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	<type name="PickupTruckBloodOrange">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BloodOrangePickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BloodOrangePickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BloodOrangePickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckOrange">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="OrangePickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="OrangePickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="OrangePickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckBlack">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlackPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlackPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BlackPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckGreen">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="GreenPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="GreenPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="GreenPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckBlue">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BluePickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BluePickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BluePickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckGrey">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="GreyPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="GreyPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="GreyPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckPurple">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PurplePickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PurplePickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PurplePickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		</type>
+	
+	<type name="PickupTruckPink">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PinkPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PinkPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="PinkPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckWhite">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="WhitePickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="WhitePickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="WhitePickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckRed">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="RedPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="RedPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="RedPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>
+	
+	<type name="PickupTruckBrightYellow">
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="Pickupwheel" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BrightYellowPickupDoors_Driver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BrightYellowPickupDoors_CoDriver" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="BrightYellowPickupHood" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="1.00" />
+	</attachments>
+	</type>

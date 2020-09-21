@@ -1,0 +1,42 @@
+
+<!-- Custom Civilian Vehicle Spawns for PickupTruck modify as you wish-->
+	<event name="VehicleCivilianSpawns">
+        <nominal>30</nominal>
+        <min>10</min>
+        <max>20</max>
+        <lifetime>4800</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+		<children>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckPink"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckWhiteCamo"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckDigiCamo"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckForestCamo"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckWhite"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckRed"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckBlackCamo"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckDarkRedCamo"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckRedCamo"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckBlueDots"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckGreen"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckBlue"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckGrey"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckDigiScales"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckPurple"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckBrightYellow"/>
+		<child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckYellow"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckBloodOrange"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckOrange"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckBlack"/>
+        <child lootmax="0" lootmin="0" max="2" min="0" type="PickupTruckDarkScales"/>
+		</children>
+	</event>
+
+	
+<!-- End of PickupTruck -->
