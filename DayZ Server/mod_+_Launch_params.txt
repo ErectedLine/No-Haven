@@ -1,6 +1,10 @@
-1597140327,1582756848,1559212036,1646187754,1710977250,1623711988,1663971788,2152314320,1560819773,1648967877,1567872567,1832448183,1688306459,1640264670,1582671564,1668199233,1962144102,1711179264,1819514788,1827241477,1870481515,1912237302
+1597140327,1582756848,1559212036,1646187754,1710977250,1623711988,1663971788,2152314320,1560819773,1648967877,1567872567,1832448183,1688306459,1640264670,1582671564,1668199233,1962144102,1711179264,1819514788,1827241477,1870481515,1912237302,1593012445,1579016654,1559317235,2129751870,1618078236,1734713776,1682209572,2155726353,1682205900,1797720064,1566911166,1705066179,1748044748,2143128974
 
-"-mod=@CF;@[1.08] Winter Chernarus;@BaseBuildingPlus;@Code Lock;@VanillaPlusPlusMap;@Base Furniture Mods 3.0;@GoreZ;@FlipTransport;@PlayerCounter;@PartyMe;@SkinInfected;@Modular Vest System;@Unlimited Stamina;@IRP-Land-Rover-Defender-110
+
+"-mod=@CF;@[1.08] Winter Chernarus;@BaseBuildingPlus;@Code Lock;@VanillaPlusPlusMap;@Base Furniture Mods 3.0;@GoreZ;@FlipTransport;@PlayerCounter;@PartyMe;@SkinInfected;@Modular Vest System;@Unlimited Stamina;@X2Taser;@MosinScope;@WeaponReduxPack;@SGZ PickupTruck
+;@Cl0ud's Winter Gear;@CPBWeapons;@MunghardsItempack;@Mass'sManyItemOverhaul;@WindstridesClothingPack;@Advanced Weapon Scopes
+;@BetterSuppressors;@UsefulSuppressors;@Mortys Weapons
+;@UsefulBatteries;@IRP-Land-Rover-Defender-110
 ;@MoreFood
 ;@Ear-Plugs;@Breachingcharge;@BulletStacksPlusPlus
 ;@InventoryPlusPlus;@dbo_surfaces;@KillFeed;@ZomBerry Admin Tools;"
